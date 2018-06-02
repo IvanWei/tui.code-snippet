@@ -1,8 +1,8 @@
 {
   "name": "@ivanwei/tui-code-snippet",
-  "version": "1.4.0",
+  "version": "0.0.1",
   "description": "TOAST UI Utility: CodeSnippet",
-  "main": "dist/tui-code-snippet.js",
+  "main": "dist/@ivanwei/tui-code-snippet.js",
   "scripts": {
     "test": "karma start --no-single-run",
     "test:ne": "KARMA_SERVER=ne karma start",

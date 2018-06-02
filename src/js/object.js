@@ -1,3 +1,5 @@
+/* eslint guard-for-in: "off" */
+/* eslint no-else-return: "off" */
 /**
  * @fileoverview This module has some functions for handling a plain object, json.
  * @author NHN Ent.
