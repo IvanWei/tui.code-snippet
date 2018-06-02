@@ -20,9 +20,9 @@
     "utility",
     "code-snippet"
   ],
-  "author": "NHNEnt FE Development Lab <dl_javascript@nhnent.com>",
+  "author": "Ivan Wei (https://blog.ivanwei.co)",
   "contributors": [
-    "Ivan Wei (https://blog.ivanwei.co)"
+    "NHNEnt FE Development Lab <dl_javascript@nhnent.com>"
   ],
   "license": "MIT",
   "devDependencies": {
